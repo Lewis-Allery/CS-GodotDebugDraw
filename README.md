@@ -1,4 +1,5 @@
 ![Godot 4.0](https://img.shields.io/badge/Godot-v4.0-%23478cbf?logo=godot-engine&logoColor=white) 
+![.NET 8](https://img.shields.io/badge/.NET-8.0-%23512bd4?logo=dotnet&logoColor=white)
 
 https://www.nuget.org/packages/CSDebugDraw2D
 

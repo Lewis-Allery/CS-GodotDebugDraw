@@ -14,7 +14,7 @@
   </PropertyGroup>
 
     <ItemGroup>
-    <PackageReference Include="GodotSharp" Version="4.*.*" />
+    <PackageReference Include="GodotSharp" Version="4.4.*" />
   </ItemGroup>
 
 </Project>

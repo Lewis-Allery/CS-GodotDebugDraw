@@ -1,0 +1,30 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio / VS Code files
+.vscode/
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.userosscache
+*.sln.docstates
+
+# Rider IDE files (if any)
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.packages/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore generated files/folders
+**/Generated/

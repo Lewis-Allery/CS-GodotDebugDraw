@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <AssemblyName>CSDebugDraw2D</AssemblyName>
+    <RootNamespace>CSDebugDraw2D</RootNamespace>
+    <PackageId>CSDebugDraw2D</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Lewis Allery</Authors>
+    <Description>Debug drawing utilities for 2D in Godot using C#.</Description>
+    <Company></Company>
+    <RepositoryUrl>https://github.com/Lewis-Allery/CSGodotDebugDraw</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+    <ItemGroup>
+    <PackageReference Include="GodotSharp" Version="4.4.*" />
+  </ItemGroup>
+
+</Project>

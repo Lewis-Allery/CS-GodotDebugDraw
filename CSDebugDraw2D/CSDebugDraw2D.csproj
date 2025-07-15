@@ -8,7 +8,7 @@
     <AssemblyName>CSDebugDraw2D</AssemblyName>
     <RootNamespace>CSDebugDraw2D</RootNamespace>
     <PackageId>CSDebugDraw2D</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.4</Version>
     <Authors>Lewis Allery</Authors>
     <Description>Debug drawing utilities for 2D scenes in Godot using C#.</Description>
     <PackageTags>godot;debug;draw;2d;visualization</PackageTags>
@@ -29,6 +29,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="CSDebugDraw2D.cs" />
     <None Include="README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 

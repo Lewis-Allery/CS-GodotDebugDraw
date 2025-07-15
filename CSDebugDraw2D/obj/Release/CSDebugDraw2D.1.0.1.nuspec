@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSDebugDraw2D</id>
+    <version>1.0.1</version>
+    <authors>Lewis Allery</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <readme>README.md</readme>
+    <description>Debug drawing utilities for 2D scenes in Godot using C#.</description>
+    <tags>godot debug draw 2d visualization</tags>
+    <repository type="git" url="https://github.com/Lewis-Allery/CSGodotDebugDraw" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="GodotSharp" version="4.4.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\lewis\Desktop\CSDebugDraw2D\CSDebugDraw2D\bin\Release\net8.0\CSDebugDraw2D.dll" target="lib\net8.0\CSDebugDraw2D.dll" />
+    <file src="C:\Users\lewis\Desktop\CSDebugDraw2D\CSDebugDraw2D\bin\Release\net8.0\CSDebugDraw2D.xml" target="lib\net8.0\CSDebugDraw2D.xml" />
+    <file src="C:\Users\lewis\Desktop\CSDebugDraw2D\CSDebugDraw2D\README.md" target="README.md" />
+  </files>
+</package>
